@@ -1,6 +1,9 @@
 # Hello Rails Back End
 This is a demo project where I have implemented server-side for api creation using RoR.
 
+- Front-end Repo: [Link](https://github.com/Tufahel/hello-rails-front-end/tree/features)
+- Back-end Heroku App: [Api](https://stark-anchorage-77653.herokuapp.com/api/greetings )
+
 # Built With
 - Ruby on Rails
 - Postgres
